@@ -1,5 +1,3 @@
-# Ivan Aguilar
-
 ## Experience
 
 ## Education
