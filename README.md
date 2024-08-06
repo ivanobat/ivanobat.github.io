@@ -1,12 +1,12 @@
 # Ivan Aguilar
 
-# Experience
+## Experience
 
-# Education
+## Education
 
-# Projects
-## Prediction
-## NLP
-## Time Series
-## Gaming
-## Fun Stuff
+## Projects
+### Prediction
+### NLP
+### Time Series
+### Gaming
+### Fun Stuff
